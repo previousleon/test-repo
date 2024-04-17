@@ -15,6 +15,7 @@ def check_variables(filename):
 # Add other validation functions as needed
 
 if __name__ == "__main__":
+    print("running validate script")
     filename = "./test.yaml"
     is_valid, error_message = validate_yaml(filename)
     if not is_valid:
