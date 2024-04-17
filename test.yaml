@@ -1,13 +1,4 @@
-repos:
-- repo: https://github.com/pre-commit/pre-commit-hooks
-  rev: v3.4.0
-  hooks:
-  - id: trailing-whitespace
-- repo: local
-  hooks:
-  - id: custom-yaml-validator
-    name: Check YAML file
-    entry: python ./validate.py
-    language: python
-    files: ./test.yaml
-    types: [file]
+dnqksnpadm
+  diwndpand
+  ffe fwafw nakf
+  afweam[f qf[q fqf fq f ewkfpqwfk]]
